@@ -1,0 +1,1 @@
+# vacation-trip-eureka-server
